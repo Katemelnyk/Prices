@@ -38,3 +38,10 @@ const arr = [
     for (let i = 0; i < arr.length; ++i) {
         console.log ('Code for "i" item', arr[i]);
     }
+
+    const priceHistory = [34048.39, 13456.06, 15800.45, 17712.19, 288480.41,
+    ];
+
+    ///for (let i = 0; i < priceHistory.length; ++i) {
+     // console.log ('Code for "i" item', priceHistory[i]);
+ // }  
